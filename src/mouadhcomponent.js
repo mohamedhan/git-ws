@@ -8,4 +8,4 @@ function Mouadhcomponent() {
     )
 }
 
-export default M
+export default Mouadhcomponent;
